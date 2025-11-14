@@ -1,0 +1,6 @@
+{
+    "bingBaseUrl": "https://www.bing.com/search",
+    "resultsPerPage": 20,
+    "market": "en-US",
+    "language": "en"
+}
